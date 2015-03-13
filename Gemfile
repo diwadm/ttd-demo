@@ -45,3 +45,4 @@ group :development, :test do
   gem 'shoulda-matchers', require: false
 end
 
+gem 'factory_girl_rails'
